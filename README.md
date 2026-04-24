@@ -22,14 +22,14 @@ Outside of work, I play football and take long walks.
 
 ## 🔭 What I'm Working On
 
-- **Power BI dashboarding project** — building a production-quality dashboard on top of my SQL data warehouse project, giving the Gold layer a proper BI front end.
-- **EDA insights write-up** — adding a business-findings section to my Retail Sales EDA project so the analysis reads as decisions, not just techniques.
-- **Job search** — open to mid-level Data Analyst roles, EU-remote or Lithuania-based.
+- **Power BI dashboarding project:**  building a production-quality dashboard on top of my SQL data warehouse project, giving the Gold layer a proper BI front end.
+- **EDA insights write-up:**  adding a business-findings section to my Retail Sales EDA project so the analysis reads as decisions, not just techniques.
+- **Job search:**  open to mid-level Data Analyst roles, EU-remote or Lithuania-based.
 
 ## 🌱 Currently Learning
 
-- **Python for data analysis** — pandas, matplotlib, and Jupyter for EDA workflows.
-- **Power BI portfolio projects** — deepening DAX and data modeling beyond certification prep.
+- **Python for data analysis:**  pandas, matplotlib, and Jupyter for EDA workflows.
+- **Power BI portfolio projects:**  deepening DAX and data modeling beyond certification prep.
 
 ## 📂 Featured Projects
 
